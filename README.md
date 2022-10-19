@@ -1,2 +1,2 @@
-# react-select-async-component
-Create async component of the react-select
+# react-component
+Create react component
