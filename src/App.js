@@ -24,7 +24,7 @@ function App() {
 
   return (
     <div className="App">
-      <h3>React-Select Dropdown</h3>
+      <h3>Select Dropdown</h3>
 
       <AsyncSelect
         cacheOptions
